@@ -1,6 +1,8 @@
 ---
 ID: 85
-post_title: Kako se spremiti za izlet?
+post_title: >
+  Koji je pogodan trenutak da krenete u
+  avanturu
 author: ijxc@a2_1
 post_excerpt: >
   Wherever you’re coming from is
@@ -10,7 +12,7 @@ post_excerpt: >
   a day or two.
 layout: post
 permalink: >
-  http://localhost/nomad/2016/11/22/kako-se-spremiti-za-izlet/
+  http://localhost/nomad/2016/11/22/koji-je-pogodan-trenutak-da-krenete-u-avanturu/
 published: true
 post_date: 2016-11-22 15:54:21
 ---
