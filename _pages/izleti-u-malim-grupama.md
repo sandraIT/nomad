@@ -1,10 +1,11 @@
 ---
 ID: 826
-post_title: ""
+post_title: Izleti u malim grupama
 author: ijxc@a2_1
 post_excerpt: ""
 layout: page
-permalink: http://localhost/nomad/826-2/
+permalink: >
+  http://localhost/nomad/izleti-u-malim-grupama/
 published: true
 post_date: 2018-09-19 11:09:19
 ---
