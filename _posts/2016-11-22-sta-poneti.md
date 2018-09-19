@@ -1,6 +1,6 @@
 ---
 ID: 81
-post_title: What is Lorem Ipsum?
+post_title: Šta poneti
 author: ijxc@a2_1
 post_excerpt: >
   The other way to get from Cusco to Machu
@@ -9,7 +9,7 @@ post_excerpt: >
   hike to Machu Picchu each year.
 layout: post
 permalink: >
-  http://localhost/nomad/2016/11/22/what-is-lorem-ipsum-2/
+  http://localhost/nomad/2016/11/22/sta-poneti/
 published: true
 post_date: 2016-11-22 15:51:22
 ---
