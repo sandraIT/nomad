@@ -1,6 +1,6 @@
 ---
 ID: 83
-post_title: What is Lorem Ipsum?
+post_title: Obroci na izletu
 author: ijxc@a2_1
 post_excerpt: >
   The easiest way to get to from Cusco to
@@ -9,7 +9,7 @@ post_excerpt: >
   miles from the site)
 layout: post
 permalink: >
-  http://localhost/nomad/2016/11/22/what-is-lorem-ipsum/
+  http://localhost/nomad/2016/11/22/obroci-na-izletu/
 published: true
 post_date: 2016-11-22 15:53:15
 ---
