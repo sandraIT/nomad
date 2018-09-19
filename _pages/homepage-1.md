@@ -14,49 +14,49 @@ Homolje je poznato kao ekološka oaza, a ja posle ovog obilaska moram da potvrdi
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/02/timeline-1.jpg" alt="" width="308" height="128" />
-<span class="text_container">Cusco is a city in southeastern Peru, near the Urubamba Valley of the Andes mountain range. It is the capital of the Cusco Region. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/01/slides_1-308x128.jpg" alt="" width="308" height="128" />
-<span class="text_container">Lima is the capital and the largest city of Peru. With a population of almost 10 million, Lima is the most populous metropolitan area of Peru. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/02/timeline-1.jpg" alt="" width="308" height="128" />
-<span class="text_container">Urubamba is a small town in Peru, located near the Urubamba River. Urubamba is the largest town in the Sacred Valley of the Incas. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/01/slides_1-308x128.jpg" alt="" width="308" height="128" />
-<span class="text_container">It is the capital and largest city of the Arequipa Region. Arequipa is the second most industrialized and commercialized city in Peru. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/02/timeline-1.jpg" alt="" width="308" height="128" />
-<span class="text_container">Machu Picchu is a 15th-century Inca citadel situated on a mountain ridge. It is the most familiar icon of Inca civilization. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/01/slides_1-308x128.jpg" alt="" width="308" height="128" />
-<span class="text_container">Mancora is a town and beach resort in the Piura Region, in northwestern Peru. It is known for its turquoise beaches and good waves. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/02/timeline-1.jpg" alt="" width="308" height="128" />
-<span class="text_container">Puno is a city in southeastern Peru, located on the shore of Lake Titicaca. Puno has several churches dating back from the colonial period. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 <div class="timeline-content">
 
 <img class="alignnone size-unitravel-thumb-hot-spot wp-image-398" src="http://localhost/nomad/wp-content/uploads/2017/01/slides_1-308x128.jpg" alt="" width="308" height="128" />
-<span class="text_container">Huaraz is the main financial and commerce center of the Callejon .Huaraz is the main place of winter sports and adventure. </span>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
 
 </div>
 [/cq_vc_draggabletimeline][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1486300078590{padding-top: 8.45rem !important;padding-bottom: 3rem !important;background-image: url(http://localhost/nomad/wp-content/uploads/2016/12/about_3_bg.png?id=502) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="about_3"][vc_column][trx_sc_promo icon_type="fontawesome" title_tag="h1" title_align="left" image_position="right" add_banner="1" full_height="" text_paddings="1" title="Rajačke pimnice" subtitle="Specijalna destinacija" description="#E-8_UGltbmljZSUyMHN1JTIwJUM1JUJFaXZpJTIwc3ZlZG9rJTIwbmElQzQlOERpbmElMjAlQzUlQkVpdm90YSUyMGklMjBvYmklQzQlOERhamElMjB0cmFkaWNpb25hbG5paCUyMHZpbmFyc2tpaCUyMHphamVkbmljYSUyMFNyYmElMjB1JTIwSXN0byVDNCU4RG5vaiUyMFNyYmlqaSUyMGtyb3olMjB2ZWtvdmUuJTIwU2VsbyUyMFJhamFjJTIwc3BlY2lmaSVDNCU4RG5vJTIwamUlMjBwbyUyMHRvbWUlMjAlQzUlQTF0byUyMHBvc2VkdWplJTIwcG9zZWJuaSUyMGRlbyUyMHNlbGElMjBnZGUlMjBzdSUyMHNtZSVDNSVBMXRlbmklMjBhdXRlbnRpJUM0JThEbmklMjB2aW5za2klMjBwb2RydW1pJTIwJUUyJTgwJTkzJTIwcGltbmljZS4lMEElMEElM0NzcGFuJTIwY2xhc3MlM0QlMjJ0cnhfYWRkb25zX3RpbnlfdGV4dCUyMiUzRUl6bGV0JTNBJTNDJTJGc3BhbiUzRSUyMCUzQ3NwYW4lMjBjbGFzcyUzRCUyMnRyeF9hZGRvbnNfdGlueV90ZXh0JTIyJTIwc3R5bGUlM0QlMjJjb2xvciUzQSUyMCUyM2ZjYjA0MCUzQiUyMiUzRUFrdGl2bmElMjBkZXN0aW5hY2lqYSUzQyUyRnNwYW4lM0UlMEElM0NzcGFuJTIwY2xhc3MlM0QlMjJ0cnhfYWRkb25zX3RpbnlfdGV4dCUyMiUzRSUyME5hJUM0JThEaW4lMjBpemxldGElM0ElM0MlMkZzcGFuJTNFJTIwJTNDc3BhbiUyMGNsYXNzJTNEJTIydHJ4X2FkZG9uc190aW55X3RleHQlMjIlMjBzdHlsZSUzRCUyMmNvbG9yJTNBJTIwJTIzZmNiMDQwJTNCJTIyJTNFU3RhbmRhcmRhbiUzQyUyRnNwYW4lM0UlMEElM0NzcGFuJTIwY2xhc3MlM0QlMjJ0cnhfYWRkb25zX3RpbnlfdGV4dCUyMiUzRSUyMFRpcCUyMGl6bGV0YSUzQSUzQyUyRnNwYW4lM0UlMjAlM0NzcGFuJTIwY2xhc3MlM0QlMjJ0cnhfYWRkb25zX3RpbnlfdGV4dCUyMiUyMHN0eWxlJTNEJTIyY29sb3IlM0ElMjAlMjNmY2IwNDAlM0IlMjIlM0VHcnVwYSUzQyUyRnNwYW4lM0UlMEE=" link="/nomad/destinacije/" link_text="Zakažite izlet" image="503" banner_text="1800 RSD<i>9 dana</i>"][/trx_sc_promo][/vc_column][/vc_row][vc_row full_width="stretch_row" equal_height="yes" content_placement="top" css=".vc_custom_1486305011705{margin-top: -3rem !important;padding-top: 13.1rem !important;padding-bottom: 2.1rem !important;background-image: url(http://localhost/nomad/wp-content/uploads/2016/12/gallery_bg.png?id=505) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="gallery_1"][vc_column width="1/3" el_class="gallery_absolute_wrapper"][vc_row_inner][vc_column_inner css=".vc_custom_1486306542457{padding-top: 4.3rem !important;}"][trx_sc_title title_style="inverse" title_tag="h1" title_align="left" title="Srbija" description="Povezujući Zapad i Istok vekovima, Srbija je zemlja u kojoj se susreću i prepliću civilizacije, kulture, vere, klime i reljefi."][/vc_column_inner][vc_column_inner offset="vc_col-md-offset-4 vc_col-md-8"][ess_grid alias="grid-2"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="2/3"][ess_grid alias="Home"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1486739642345{padding-top: 7.3rem !important;padding-bottom: 7.8rem !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="blog_2"][vc_column][trx_sc_blogger type="classic" hide_excerpt="" cat="11" orderby="post_date" order="desc" slider="1" slider_pagination="1" title_tag="h3" title_align="center" count="3" columns="3" title="Vaše nezaboravno putovanje" subtitle="Blog"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][cq_vc_hotspot image="286" position="78%|62%,73%|52%,69%|58%,58%|40%,40%|43%" iconbackground="#fcb040" circlecolor="rgba(252,176,64,0.5)" tooltipstyle="light" maxwidth="308"][hotspotitem]
