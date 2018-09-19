@@ -1,13 +1,10 @@
 ---
 ID: 832
-post_title: >
-  Život na selu / kako izgleda jedan
-  uobičajan dan
+post_title: Život na selu
 author: ijxc@a2_1
 post_excerpt: ""
 layout: page
-permalink: >
-  http://localhost/nomad/zivot-na-selu-kako-izgleda-jedan-uobicajan-dan/
+permalink: http://localhost/nomad/zivot-na-selu/
 published: true
 post_date: 2018-09-19 11:16:49
 ---
